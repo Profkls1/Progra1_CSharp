@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrograGit", "PrograGit\PrograGit.csproj", "{D6CE7AE8-BEDB-4047-AA51-9BC56EEC79BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CE7AE8-BEDB-4047-AA51-9BC56EEC79BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CE7AE8-BEDB-4047-AA51-9BC56EEC79BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CE7AE8-BEDB-4047-AA51-9BC56EEC79BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CE7AE8-BEDB-4047-AA51-9BC56EEC79BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4F8EE8-E09D-49FE-8EA0-1B2DCB4A21ED}
+	EndGlobalSection
+EndGlobal
